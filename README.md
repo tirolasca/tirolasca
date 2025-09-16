@@ -31,6 +31,17 @@
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=tirolasca&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirolasca&layout=compact&theme=dracula)  
 
+</div>## 📊 Estatísticas do GitHub
+<div align="center">
+
+<a href="https://github.com/tirolasca">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tirolasca&show_icons=true&theme=dracula"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/tirolasca">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirolasca&layout=compact&theme=dracula"/>
+</a>
+
 </div>
 
 ---
