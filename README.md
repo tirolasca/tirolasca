@@ -15,13 +15,13 @@
 ---
 
 ## 📊 GitHub Stats
-![tirolasca GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSantos&show_icons=true&theme=dracula)  
+![tirolasca GitHub stats](https://github-readme-stats.vercel.app/api?username=tirolacsca&show_icons=true&theme=dracula)  
 
 ---
 
 ## 🌍 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 **seuemail@email.com**  
+- 📧 **lucasnascimento1245@gmail.com**  
 
 ---
 
