@@ -15,7 +15,7 @@
 ---
 
 ## 📊 GitHub Stats
-![tirolasca GitHub stats](https://github-readme-stats.vercel.app/api?username=tirolacsca&show_icons=true&theme=dracula)  
+![tirolasca GitHub stats](https://github-readme-stats.vercel.app/api?username=tirolasca&show_icons=true&theme=dracula)  
 
 ---
 
