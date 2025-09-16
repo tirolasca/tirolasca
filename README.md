@@ -20,7 +20,7 @@
 ---
 
 ## 🌍 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-santostec/)  
 - 📧 **lucasnascimento1245@gmail.com**  
 
 ---
