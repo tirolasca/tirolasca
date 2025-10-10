@@ -71,8 +71,8 @@ Sou **Lucas Santos**, desenvolvedor apaixonado por tecnologia e inovação.
 | Projeto | Tecnologias | Descrição |
 |----------|--------------|-----------|
 | 🌌 **[NASA Exoplanet Dashboard](https://nasasjc.vercel.app/)** | HTML, CSS, JS | Dashboard interativo com dados astronômicos do Space Apps Challenge — NASA. |
-| 🧠 **[Janosys API Dashboard](https://janosys-project-api1.vercel.app/)** | React, Node.js | Visualização de dados dinâmicos com integração de API REST. |
-| 💼 **[Meu Portfólio](https://lucastec.vercel.app)** | Next.js, Tailwind, Vercel | Site pessoal responsivo com SEO e showcase de projetos. |
+| 🧠 **[Janosys API Dashboard](https://janosys-project-api1.vercel.app/)** | Python, JavaScript | Visualização de dados dinâmicos com integração de API REST. |
+| 💼 **[Meu Portfólio](https://lucastec.vercel.app)** | HTML, CSS, JavaScript, Vercel | Site pessoal responsivo com SEO e showcase de projetos. |
 
 ---
 
