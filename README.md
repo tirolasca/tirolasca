@@ -55,7 +55,7 @@ Sou **Lucas Santos**, desenvolvedor apaixonado por tecnologia e inovação.
 ### 🌐 Redes & Infraestrutura  
 ![Cisco](https://img.shields.io/badge/Cisco_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-2022-blue?logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-gray?logo=windows&logoColor=white)
 
 ### 🧰 Ferramentas & Controle de Versão  
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
