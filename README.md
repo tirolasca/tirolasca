@@ -62,7 +62,7 @@ Sou **Lucas Santos**, desenvolvedor apaixonado por tecnologia e inovação.
 
 
 ### 🌐 Redes & Infraestrutura  
-![Cisco](https://img.shields.io/badge/Cisco_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-gray?style=for-the-badge&logo=windows&logoColor=white)
 
