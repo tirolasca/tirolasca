@@ -23,7 +23,7 @@ Sou **Lucas Santos**, desenvolvedor apaixonado por tecnologia e inovação.
 
 <p align="center">
   <a href="https://lucastec.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/tirolasca/Portfolio/img/preview.png" alt="Preview do Portfólio de Lucas Santos" width="800"/>
+    <img src="https://raw.githubusercontent.com/tirolasca/Portfolio/main/img/Preview.png" alt="Preview do Portfólio de Lucas Santos" width="800"/>
   </a>
 </p>
 
