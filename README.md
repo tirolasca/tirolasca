@@ -110,7 +110,7 @@ Sou **Lucas Santos**, desenvolvedor apaixonado por tecnologia e inovação.
   
   </a>
   <a href="https://github.com/tirolasca">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirolasca&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Linguagens mais utilizadas" />
+    
   </a>
 </div>
 
