@@ -106,18 +106,18 @@ Sou **Lucas Santos**, desenvolvedor apaixonado por tecnologia e inovação.
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-<a href="https://github.com/tirolasca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tirolasca&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/tirolasca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirolasca&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117"/>
-</a>
-
+  <a href="https://github.com/tirolasca">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=tirolasca&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub de Lucas" />
+  </a>
+  <a href="https://github.com/tirolasca">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirolasca&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Linguagens mais utilizadas" />
+  </a>
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirolasca&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
 
 ## 🌍 Conecte-se comigo
 
