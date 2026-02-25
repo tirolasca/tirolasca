@@ -101,22 +101,16 @@ Sou **Lucas Santos**, desenvolvedor apaixonado por tecnologia e inovação.
 | 🧠 **[Janosys API Dashboard](https://janosys-project-api1.vercel.app/)** | Python, Flask, MySQL, Plotly, Pandas | Visualização de dados dinâmicos com integração entre backend e data science. |
 | 💼 **[Meu Portfólio](https://lucastec.vercel.app)** | HTML, CSS, JavaScript, Vercel | Site pessoal responsivo com SEO e showcase de projetos. |
 
----
-
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/tirolasca">
-  
-  </a>
-  <a href="https://github.com/tirolasca">
-    
-  </a>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tirolasca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas de Lucas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirolasca&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirolasca&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirolasca&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 ## 🌍 Conecte-se comigo
