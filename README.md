@@ -56,7 +56,7 @@ Sou **Lucas Santos**, desenvolvedor apaixonado por tecnologia e inovação.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain.com-121D33?style=for-the-badge&logo=blockchain&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain.com-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
 
 
 ### ☁️ Cloud & DevOps  
