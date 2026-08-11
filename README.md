@@ -104,14 +104,9 @@ Sou **Lucas Santos**, desenvolvedor apaixonado por tecnologia e inovação.
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tirolasca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="Estatísticas de Lucas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirolasca&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=86400" alt="Linguagens mais usadas" />
-</p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=tirolasca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="Estatísticas do GitHub" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirolasca&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=86400" alt="Linguagens mais utilizadas" /> </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tirolasca&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=tirolasca&theme=dracula&hide_border=true" alt="GitHub Streak" /> </p>
 
 
 ## 🌍 Conecte-se comigo
