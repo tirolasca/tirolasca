@@ -11,21 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://lucastec.vercel.app" target="blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfólio-6C63FF?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-santostec" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/tirolasca" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+   <a href="https://lucastec.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfólio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lucas-santostec" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/tirolasca" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tirolasca&label=Visualizações%20do%20perfil&color=6C63FF&style=for-the-badge" />
 </p>
----
 
 ## 💡 Sobre mim
 
@@ -128,21 +121,47 @@ Sou **Lucas Santos**, desenvolvedor apaixonado por tecnologia e inovação.
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=tirolasca&theme=dracula&hide_border=true" alt="GitHub Streak" /> </p>
 
 
-## 🌍 Conecte-se comigo
+## 🎯 Objetivos & Metas
 
-📧 **lucasnascimento1245@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/lucas-santostec/)  
-🌎 [Portfólio](https://lucastec.vercel.app)  
-🐙 [GitHub](https://github.com/tirolasca)
-
----
-
-## ✨ Curiosidades e Metas
-
-- 🔭 Sempre explorando novas tecnologias e aprimorando minhas habilidades em redes e desenvolvimento  
-- 🌱 Atualmente aprofundando meus estudos em **Desenvolvimento Multiplataforma, Cloud Computing e Data Visualization**  
-- ⚡ Fato divertido: gosto de entender “como tudo se conecta”, do back-end até o roteador  
+* 🚀 Conquistar minha primeira oportunidade profissional na área de tecnologia
+* 💻 Evoluir continuamente como **desenvolvedor Full Stack**
+* ☁️ Aprofundar meus conhecimentos em **Cloud Computing, DevOps e infraestrutura**
+* 🗄️ Trabalhar com **arquiteturas modernas, APIs e bancos de dados**
+* 📊 Desenvolver soluções envolvendo **dados, análise e visualização**
+* 🧠 Explorar novas tecnologias e transformar aprendizado em **projetos reais**
+* 🌎 Participar de projetos que proporcionem **experiência, aprendizado e impacto real**
 
 ---
 
-⭐ Se você curtiu meu perfil, deixe um **Star** nos meus repositórios e acompanhe minha evolução!
+## ✨ Curiosidades & Interesses
+
+* 🔭 Estou sempre explorando novas tecnologias e aprimorando minhas habilidades em **desenvolvimento e redes**
+* 🌱 Atualmente aprofundando meus estudos em **Desenvolvimento Multiplataforma, Cloud Computing e Data Visualization**
+* 💡 Gosto de entender não apenas **como desenvolver uma aplicação**, mas também como todas as partes de uma solução se conectam
+* 🌐 Tenho interesse por **desenvolvimento web, infraestrutura, redes e tecnologia em geral**
+* ⚡ Fato divertido: gosto de entender **“como tudo se conecta”**, do back-end até o roteador
+* 🛠️ Gosto de transformar ideias em **projetos práticos**, experimentando novas tecnologias durante o processo
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="mailto:lucasnascimento1245@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://lucastec.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfólio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lucas-santostec" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/tirolasca" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" />
+</p>
+
+<p align="center">
+  <b>⚡ Código limpo • 🚀 Projetos reais • 🧠 Aprendizado contínuo</b>
+</p>
+
+<p align="center">
+  ⭐ Se você gostou dos meus projetos, considere deixar uma estrela nos repositórios!
+</p>
+
