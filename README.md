@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Lucas Santos!</h1>
 
 <h3 align="center">
-🚀 Desenvolvedor Full Stack | React | TypeScript | Node.js
+🚀 Desenvolvedor Full Stack | React • TypeScript • Node.js • APIs
 </h3>
 
 <p align="center">
@@ -23,9 +23,11 @@
 ## 💡 Sobre mim
 
 Sou **Lucas Santos**, desenvolvedor apaixonado por tecnologia e inovação.  
-🎓 Tenho formação em **Redes de Computadores** e **Desenvolvimento de Sistemas**.  
-💻 Atualmente curso **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC**.  
-🚀 Busco minha primeira oportunidade profissional para aplicar meus conhecimentos e crescer na área de tecnologia.
+🎓 Formação em Redes de Computadores e Desenvolvimento de Sistemas
+💻 Graduando em Desenvolvimento de Software Multiplataforma (DSM) na FATEC
+⚛️ Desenvolvimento de aplicações com React, TypeScript e Node.js
+🗄️ Experiência acadêmica e prática com APIs, bancos de dados e aplicações Full Stack
+☁️ Interesse em Cloud, DevOps, infraestrutura e visualização de dados
 
 > 💬 “Transformar ideias em código é o que me motiva todos os dias.”
 
@@ -108,11 +110,112 @@ Sou **Lucas Santos**, desenvolvedor apaixonado por tecnologia e inovação.
 
 ## 🔎 Projetos em Destaque
 
-| Projeto | Tecnologias | Descrição |
-|----------|--------------|-----------|
-| 🌌 **[NASA Exoplanet Dashboard](https://nasasjc.vercel.app/)** | HTML, CSS, JS | Dashboard interativo com dados astronômicos do Space Apps Challenge — NASA. |
-| 🧠 **[Janosys API Dashboard](https://janosys-project-api1.vercel.app/)** | Python, Flask, MySQL, Plotly, Pandas | Visualização de dados dinâmicos com integração entre backend e data science. |
-| 💼 **[Meu Portfólio](https://lucastec.vercel.app)** | HTML, CSS, JavaScript, Vercel | Site pessoal responsivo com SEO e showcase de projetos. |
+<p align="center">
+  <em>
+    Alguns dos projetos que representam minha evolução em desenvolvimento web,
+    aplicações Full Stack, interfaces modernas e soluções digitais.
+  </em>
+</p>
+
+---
+
+### ✈️ AeroCode — Sistema de Gestão Aeronáutica
+
+> **React • TypeScript • Node.js • Prisma • MySQL • Docker**
+
+Aplicação web **Full Stack** desenvolvida para gerenciamento de aeronaves e informações operacionais. O projeto foi construído com foco em organização, segurança e experiência do usuário, integrando frontend, backend e banco de dados.
+
+**Principais recursos:**
+
+* 🔐 Autenticação e controle de acesso
+* 👥 Diferentes níveis de permissão
+* ✈️ Cadastro e gerenciamento de aeronaves
+* 📝 Operações completas de **CRUD**
+* 🔎 Filtros e busca de registros
+* 📜 Histórico de informações
+* 🗄️ Integração com **MySQL através do Prisma ORM**
+* 🐳 Ambiente preparado com **Docker**
+* ☁️ Deploy em ambiente cloud
+
+<p>
+  <a href="https://aerocodespa.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐%20Demo-6C63FF?style=for-the-badge" /></a>
+  <a href="https://github.com/tirolasca/Aerocode-Fullstack" target="_blank"><img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✍️ Signa — Plataforma Web
+
+> **React • TypeScript • JavaScript • APIs • Responsive Design**
+
+Projeto de aplicação web desenvolvido com foco em **experiência do usuário, organização de informações e interface responsiva**.
+
+A aplicação utiliza uma arquitetura moderna de frontend, componentes reutilizáveis e integração entre diferentes funcionalidades para oferecer uma experiência fluida em dispositivos desktop e mobile.
+
+**Destaques:**
+
+* 🎨 Interface moderna e responsiva
+* ⚛️ Componentização com **React**
+* 🔷 Desenvolvimento utilizando **TypeScript**
+* 🔄 Integração com APIs e dados dinâmicos
+* 📱 Adaptação para diferentes tamanhos de tela
+* 🧩 Organização modular do projeto
+* 🚀 Foco em performance e experiência do usuário
+
+<p>
+  <a href="https://janosys-aeroespacial.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Demo-6C63FF?style=for-the-badge" /></a>
+  <a href="https://github.com/janosystime/Janosys-Project-1-Akaer" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🍷 Vinícola — Website Institucional Premium
+
+> **HTML • CSS • JavaScript • Responsive Design • UI/UX**
+
+Website institucional desenvolvido para uma **vinícola premium**, com foco em identidade visual, apresentação de produtos e criação de uma experiência digital sofisticada.
+
+O projeto busca combinar **design, usabilidade e apresentação visual**, utilizando uma identidade elegante e uma estrutura pensada para destacar a marca e seus produtos.
+
+**Destaques:**
+
+* 🍷 Design inspirado no segmento premium
+* 🎨 Identidade visual sofisticada
+* 📱 Layout totalmente responsivo
+* 🖥️ Interface otimizada para desktop e mobile
+* ✨ Animações e interações para melhorar a experiência
+* 🧭 Navegação intuitiva
+* 📸 Destaque visual para produtos e conteúdos
+* 🚀 Estrutura preparada para apresentação institucional
+
+<p>
+  <a href="https://vinicolapremium.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Demo-6C63FF?style=for-the-badge" /></a>
+  <a href="https://github.com/tirolasca/Vinicola" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧩 O que esses projetos representam
+
+| Projeto         | Principal experiência                                                |
+| --------------- | -------------------------------------------------------------------- |
+| ✈️ **AeroCode** | Full Stack, APIs, autenticação, banco de dados e arquitetura         |
+| ✍️ **Signa**    | Frontend, React, TypeScript, UI/UX e responsividade                  |
+| 🍷 **Vinícola** | Design, desenvolvimento web, responsividade e experiência do usuário |
+
+<p align="center">
+  <em>
+    🚀 Mais projetos e experimentos estão disponíveis no meu GitHub e no meu portfólio.
+  </em>
+</p>
+
 
 ## 📊 Estatísticas do GitHub
 
@@ -133,14 +236,10 @@ Sou **Lucas Santos**, desenvolvedor apaixonado por tecnologia e inovação.
 
 ---
 
-## ✨ Curiosidades & Interesses
+## ✨ Curiosidades
 
-* 🔭 Estou sempre explorando novas tecnologias e aprimorando minhas habilidades em **desenvolvimento e redes**
-* 🌱 Atualmente aprofundando meus estudos em **Desenvolvimento Multiplataforma, Cloud Computing e Data Visualization**
 * 💡 Gosto de entender não apenas **como desenvolver uma aplicação**, mas também como todas as partes de uma solução se conectam
-* 🌐 Tenho interesse por **desenvolvimento web, infraestrutura, redes e tecnologia em geral**
 * ⚡ Fato divertido: gosto de entender **“como tudo se conecta”**, do back-end até o roteador
-* 🛠️ Gosto de transformar ideias em **projetos práticos**, experimentando novas tecnologias durante o processo
 
 ## 🌐 Conecte-se comigo
 
