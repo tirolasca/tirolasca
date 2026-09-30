@@ -234,10 +234,7 @@ O projeto busca combinar **design, usabilidade e apresentação visual**, utiliz
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=tirolasca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="Estatísticas do GitHub" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirolasca&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=86400" alt="Linguagens mais utilizadas" /> </p>
-
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=tirolasca&theme=dracula&hide_border=true" alt="GitHub Streak" /> </p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tirolasca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600" alt="Estatísticas do GitHub" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirolasca&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=21600" alt="Linguagens mais utilizadas" height="170" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=tirolasca&theme=dracula&hide_border=true&locale=pt_BR" alt="GitHub Streak" /> </p>
 
 ## 🎯 Objetivos & Metas
 
