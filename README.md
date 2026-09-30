@@ -81,6 +81,9 @@ Sou **Lucas Santos**, desenvolvedor apaixonado por tecnologia e inovação.
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=000000)
 ![Blockchain](https://img.shields.io/badge/Blockchain.com-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
 
 ### ☁️ Cloud & DevOps
