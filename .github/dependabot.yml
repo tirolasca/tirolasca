@@ -1,0 +1,18 @@
+version: 2
+
+updates:
+  # GitHub Actions: as versões ficam fixadas por SHA; o Dependabot atualiza o SHA e o comentário.
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    # espera 7 dias após o lançamento antes de propor
+    cooldown:
+      default-days: 7
+    open-pull-requests-limit: 3
+    labels: [dependencies, github-actions]
+    commit-message:
+      prefix: "chore(ci)"
+    groups:
+      actions:
+        patterns: ["*"]

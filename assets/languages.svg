@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210" viewBox="0 0 420 210" role="img" aria-label="Linguagens mais utilizadas">
+<title>Linguagens mais utilizadas</title><desc>Linguagens mais usadas nos repositórios de tirolasca</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#04171b"/><stop offset="1" stop-color="#020b0e"/></linearGradient>
+<linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#00f0d1"/><stop offset="1" stop-color="#00aaff"/></linearGradient></defs>
+<style>
+.t{font:700 18px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#00f0d1}
+.n{font:800 22px 'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+.l{font:500 12px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#9fb8bd}
+.ln{font:600 13px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#e6f4f1}
+.p{font:500 12px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#9fb8bd}
+.i{opacity:0;animation:in .6s ease forwards}
+@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.i{animation:none;opacity:1}animate{display:none}}
+</style>
+<rect x=".75" y=".75" width="418.5" height="208.5" rx="14" fill="url(#bg)" stroke="#00f0d1" stroke-opacity=".4" stroke-width="1.5"/>
+<rect x="24" y="52" width="40" height="2" rx="1" fill="url(#ac)"/>
+<text x="24" y="38" class="t">Linguagens mais utilizadas</text>
+<g class="i" style="animation-delay:0.00s"><text x="24" y="78" class="ln">TypeScript</text><rect x="132" y="69" width="200" height="8" rx="4" fill="#ffffff" fill-opacity=".08"/><rect x="132" y="69" width="0" height="8" rx="4" fill="#3178c6"><animate attributeName="width" from="0" to="174.8" dur="1s" begin="0.0s" fill="freeze"/></rect><text x="396" y="78" class="p" text-anchor="end">46.1%</text></g>
+<g class="i" style="animation-delay:0.08s"><text x="24" y="100" class="ln">CSS</text><rect x="132" y="91" width="200" height="8" rx="4" fill="#ffffff" fill-opacity=".08"/><rect x="132" y="91" width="0" height="8" rx="4" fill="#8a63d2"><animate attributeName="width" from="0" to="77.5" dur="1s" begin="0.1s" fill="freeze"/></rect><text x="396" y="100" class="p" text-anchor="end">20.4%</text></g>
+<g class="i" style="animation-delay:0.16s"><text x="24" y="122" class="ln">JavaScript</text><rect x="132" y="113" width="200" height="8" rx="4" fill="#ffffff" fill-opacity=".08"/><rect x="132" y="113" width="0" height="8" rx="4" fill="#f1e05a"><animate attributeName="width" from="0" to="51.6" dur="1s" begin="0.2s" fill="freeze"/></rect><text x="396" y="122" class="p" text-anchor="end">13.6%</text></g>
+<g class="i" style="animation-delay:0.24s"><text x="24" y="144" class="ln">Java</text><rect x="132" y="135" width="200" height="8" rx="4" fill="#ffffff" fill-opacity=".08"/><rect x="132" y="135" width="0" height="8" rx="4" fill="#b07219"><animate attributeName="width" from="0" to="34.9" dur="1s" begin="0.3s" fill="freeze"/></rect><text x="396" y="144" class="p" text-anchor="end">9.2%</text></g>
+<g class="i" style="animation-delay:0.32s"><text x="24" y="166" class="ln">HTML</text><rect x="132" y="157" width="200" height="8" rx="4" fill="#ffffff" fill-opacity=".08"/><rect x="132" y="157" width="0" height="8" rx="4" fill="#e34c26"><animate attributeName="width" from="0" to="31.0" dur="1s" begin="0.4s" fill="freeze"/></rect><text x="396" y="166" class="p" text-anchor="end">8.2%</text></g>
+<g class="i" style="animation-delay:0.40s"><text x="24" y="188" class="ln">Astro</text><rect x="132" y="179" width="200" height="8" rx="4" fill="#ffffff" fill-opacity=".08"/><rect x="132" y="179" width="0" height="8" rx="4" fill="#ff5a03"><animate attributeName="width" from="0" to="7.8" dur="1s" begin="0.5s" fill="freeze"/></rect><text x="396" y="188" class="p" text-anchor="end">2.1%</text></g>
+</svg>
