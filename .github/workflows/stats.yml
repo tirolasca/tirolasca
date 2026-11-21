@@ -12,12 +12,17 @@ on:
 permissions:
   contents: write
 
+# serializa com o workflow da cobrinha para evitar push concorrente na main
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
 jobs:
   stats:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1 # zizmor: ignore[artipacked] o push final precisa das credenciais
 
       - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
         with:
@@ -33,5 +38,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/stats.svg assets/languages.svg
+          git add assets/stats.svg assets/stats-light.svg assets/languages.svg assets/languages-light.svg assets/streak.svg assets/streak-light.svg assets/numbers.svg assets/numbers-light.svg
           git diff --cached --quiet || (git commit -m "chore: atualiza estatísticas do perfil" && git push)

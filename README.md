@@ -29,6 +29,22 @@ Construo aplicações **Full Stack**, da interface ao banco de dados, com experi
 
 **Foco atual:** React, TypeScript, Node.js e Astro, com interesse crescente em Cloud, DevOps, observabilidade e visualização de dados. Cuido também de qualidade: testes E2E, acessibilidade, desempenho e CI.
 
+<div align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/numbers.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/numbers-light.svg">
+    <img src="assets/numbers.svg" alt="Portfólio em números: projetos, tecnologias e categorias de skills" width="98%">
+  </picture>
+
+</div>
+
+### 🎯 Em foco agora
+
+| 🗄️ Persistência poliglota | 📈 Observabilidade | ☁️ Cloud & DevOps | 🧪 Qualidade & segurança |
+|:---:|:---:|:---:|:---:|
+| MongoDB, Redis, Cassandra e Neo4j no mesmo projeto (**Mercado Livre**) | **Prometheus**, **Grafana**, **Loki** e **Jaeger** | **Docker**, **GitHub Actions**, Vercel, Render e Aiven | **Vitest**, **Playwright**, axe-core, CodeQL, zizmor e OSV-Scanner |
+
 <img src="assets/divider.svg" alt="" width="100%">
 
 ## 🚀 Meu portfólio
@@ -300,6 +316,26 @@ Reconstruído do zero em **Astro 7 + TypeScript (strict)**, com tema claro/escur
 <a href="https://github.com/tirolasca/PortfolioGamer"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://mercadolivrebr.streamlit.app"><img src="https://raw.githubusercontent.com/tirolasca/Portfolio/main/src/assets/img/mercadolivre.webp" alt="Mercado Livre" width="100%"></a>
+<h3>Mercado Livre</h3>
+<sub><b>Plataforma de E-commerce &amp; Bancos Poliglotas</b></sub>
+<p>Persistência poliglota com bancos documentais, cache, colunas e grafos, e interface web em Streamlit.</p>
+<p><code>Python</code> <code>Streamlit</code> <code>MongoDB</code> <code>Redis</code> <code>Cassandra</code> <code>Neo4j</code></p>
+<a href="https://mercadolivrebr.streamlit.app"><img src="https://img.shields.io/badge/Demo-00F0D1?style=for-the-badge&logo=vercel&logoColor=black" alt="Demo"></a>
+<a href="https://github.com/tirolasca/MercadoLivre"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://calculadora-matrizes.streamlit.app"><img src="https://raw.githubusercontent.com/tirolasca/Portfolio/main/src/assets/img/calculadora-matrizes.webp" alt="Calculadora de Matrizes" width="100%"></a>
+<h3>Calculadora de Matrizes</h3>
+<sub><b>Álgebra Linear &amp; Computação Científica</b></sub>
+<p>Operações simbólicas com SymPy, interfaces Streamlit e Tkinter, testes automatizados e ferramentas de qualidade.</p>
+<p><code>Python</code> <code>Streamlit</code> <code>SymPy</code></p>
+<a href="https://calculadora-matrizes.streamlit.app"><img src="https://img.shields.io/badge/Demo-00F0D1?style=for-the-badge&logo=vercel&logoColor=black" alt="Demo"></a>
+<a href="https://github.com/tirolasca/Calculadora-Matrizes"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
+</td>
+</tr>
 </table>
 
 <details>
@@ -313,8 +349,6 @@ Reconstruído do zero em **Astro 7 + TypeScript (strict)**, com tema claro/escur
 | **Vinícola Premium** | Site institucional elegante e responsivo para uma vinícola | HTML, CSS, JavaScript | [Demo](https://vinicolapremium.vercel.app) · [Código](https://github.com/tirolasca/Vinicola) |
 | **CodeWave** | Página institucional de uma empresa de tecnologia | HTML, CSS, JavaScript | [Demo](https://codewavebr.vercel.app) · [Código](https://github.com/tirolasca/CodeWave) |
 | **Tempero da Casa** | Cardápio digital responsivo com navegação por categorias | HTML, CSS, JavaScript | [Demo](https://temperodacasa.vercel.app) · [Código](https://github.com/DeveloperCorsair/Cardapio) |
-| **Mercado Livre** | Plataforma de e-commerce com **persistência poliglota** (MongoDB, Redis, Cassandra e Neo4j) e interface web em Streamlit | Python, Streamlit, MongoDB, Redis, Cassandra, Neo4j | [Demo](https://mercadolivrebr.streamlit.app) · [Código](https://github.com/tirolasca/MercadoLivre) |
-| **Calculadora de Matrizes** | Aplicação educacional de álgebra linear com operações simbólicas (SymPy), testes automatizados e ferramentas de qualidade | Python, Streamlit, Tkinter, SymPy | [Demo](https://calculadora-matrizes.streamlit.app) · [Código](https://github.com/tirolasca/Calculadora-Matrizes) |
 
 </details>
 
@@ -324,10 +358,36 @@ Reconstruído do zero em **Astro 7 + TypeScript (strict)**, com tema claro/escur
 
 <div align="center">
 
-<a href="https://github.com/tirolasca?tab=repositories"><img src="assets/stats.svg" alt="Estatísticas do GitHub" width="49%"></a>
-<a href="https://github.com/tirolasca?tab=repositories"><img src="assets/languages.svg" alt="Linguagens mais utilizadas" width="49%"></a>
+<a href="https://github.com/tirolasca?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+    <img src="assets/stats.svg" alt="Estatísticas do GitHub" width="49%">
+  </picture>
+</a>
+<a href="https://github.com/tirolasca?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/languages.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
+    <img src="assets/languages.svg" alt="Linguagens mais utilizadas" width="49%">
+  </picture>
+</a>
 
-<a href="https://github.com/tirolasca"><img src="https://streak-stats.demolab.com/?user=tirolasca&hide_border=true&background=0d1117&ring=00f0d1&fire=ffd166&currStreakLabel=00f0d1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&locale=pt_BR" alt="Sequência de contribuições" height="165"></a>
+<a href="https://github.com/tirolasca">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/streak.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg">
+    <img src="assets/streak.svg" alt="Sequência de contribuições nos últimos 12 meses" width="98%">
+  </picture>
+</a>
+
+<a href="https://github.com/tirolasca">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg">
+    <img src="assets/snake.svg" alt="Cobrinha percorrendo o gráfico de contribuições" width="98%">
+  </picture>
+</a>
 
 </div>
 
