@@ -15,7 +15,7 @@
 <rect x=".75" y=".75" width="858.5" height="138.5" rx="14" fill="url(#bg)" stroke="#00f0d1" stroke-opacity=".4" stroke-width="1.5"/>
 <rect x="24" y="52" width="40" height="2" rx="1" fill="url(#ac)"/>
 <text x="24" y="38" class="t">Portfólio em números</text>
-<g class="i" style="animation-delay:0.0s"><text x="164" y="96" class="n" fill="#00f0d1" text-anchor="middle" style="font-size:30px">11</text><text x="164" y="118" class="l" text-anchor="middle">Projetos no portfólio</text></g>
+<g class="i" style="animation-delay:0.0s"><text x="164" y="96" class="n" fill="#00f0d1" text-anchor="middle" style="font-size:30px">12</text><text x="164" y="118" class="l" text-anchor="middle">Projetos no portfólio</text></g>
 <g class="i" style="animation-delay:0.1s"><text x="450" y="96" class="n" fill="#00aaff" text-anchor="middle" style="font-size:30px">104</text><text x="450" y="118" class="l" text-anchor="middle">Tecnologias na stack</text></g>
 <g class="i" style="animation-delay:0.2s"><text x="736" y="96" class="n" fill="#ffd166" text-anchor="middle" style="font-size:30px">12</text><text x="736" y="118" class="l" text-anchor="middle">Categorias de skills</text></g>
 </svg>
